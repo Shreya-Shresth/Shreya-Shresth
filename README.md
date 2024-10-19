@@ -26,11 +26,10 @@ I am honing my Java and development skills.
 ![Python](https://img.icons8.com/color/48/000000/python.png)
 ![React](https://img.icons8.com/color/48/000000/react-native.png)
 ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
-![jQuery](https://img.icons8.com/color/48/000000/jquery.png)
 
 ## Connect with Me:
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/shreya-shresth-2b714022a/)
 [![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/shre_ya031/profilecard/?igsh=MWduajNvcWtoajhwdg==)
 [![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:shreyashresth6902@gmail.com)
-[![LeetCode](https://img.icons8.com/color/48/000000/leetcode.png)](https://leetcode.com/u/shreya_shresth31/)
+[![LeetCode](https://iconscout.com/free-icon/leetcode-3521542)](https://leetcode.com/u/shreya_shresth31/)
