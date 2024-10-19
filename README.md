@@ -26,7 +26,7 @@ I am honing my Java and development skills.
 ![Python](https://img.icons8.com/color/48/000000/python.png)
 ![React](https://img.icons8.com/color/48/000000/react-native.png)
 ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
-![jQuery](https://img.icons8.com/color/48/000000/jquery.png)
+[![jQuery](https://img.icons8.com/color/48/000000/jquery.png)](https://jquery.com/)
 
 ## Connect with Me:
 
