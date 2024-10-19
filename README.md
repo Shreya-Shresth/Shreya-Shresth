@@ -15,7 +15,7 @@ I am honing my Java and development skills.
 ## Languages and Tools:
 
 ![C](https://img.icons8.com/color/48/000000/c-programming.png)
-!(https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+![java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
 ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
 ![Express](https://img.icons8.com/color/48/000000/express.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
