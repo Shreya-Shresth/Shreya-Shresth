@@ -14,19 +14,23 @@ I am honing my Java and development skills.
 
 ## Languages and Tools:
 
-| Icon | Language/Tool |
-|------|----------------|
-| ![C](https://img.icons8.com/color/48/000000/c-programming.png) | C |
-| ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) | Java |
-| ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) | MySQL |
-| ![Express](https://img.icons8.com/color/48/000000/express.png) | Express |
-| ![Git](https://img.icons8.com/color/48/000000/git.png) | Git |
-| ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) | HTML5 |
-| ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) | JavaScript |
-| ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) | MongoDB |
-| ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) | Node.js |
-| ![Python](https://img.icons8.com/color/48/000000/python.png) | Python |
-| ![React](https://img.icons8.com/color/48/000000/react-native.png) | React |
-| ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) | Bootstrap |
-| ![jQuery](https://img.icons8.com/color/48/000000/jquery.png) | jQuery |
+![C](https://img.icons8.com/color/48/000000/c-programming.png)
+!(https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
+![Express](https://img.icons8.com/color/48/000000/express.png)
+![Git](https://img.icons8.com/color/48/000000/git.png)
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+![Python](https://img.icons8.com/color/48/000000/python.png)
+![React](https://img.icons8.com/color/48/000000/react-native.png)
+![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
+![jQuery](https://img.icons8.com/color/48/000000/jquery.png)
 
+## Connect with Me:
+
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/shreya-shresth-2b714022a/)
+[![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/shre_ya031/profilecard/?igsh=MWduajNvcWtoajhwdg==)
+[![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:shreyashresth6902@gmail.com)
+[![LeetCode](https://img.icons8.com/color/48/000000/leetcode.png)](https://leetcode.com/u/shreya_shresth31/)
